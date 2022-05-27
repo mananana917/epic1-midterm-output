@@ -1,5 +1,5 @@
 # epic1-midterm-output 
-#[Cherry Mirra Calisnao BSCS 1A]
+[Cherry Mirra Calisnao BSCS 1A]
        
        MANDALA ART
        
